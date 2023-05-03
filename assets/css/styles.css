@@ -62,3 +62,38 @@ div.buttons input{
 .form-check-input:checked{
     background-color: #51BCC5;
 }
+
+.pagination-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .pagination {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .pagination li {
+    margin: 0 .1rem;
+  }
+  
+  .pagination li a {
+    color: #004351;
+    display: block;
+    padding: .5rem 1rem;
+    border: 1px solid #004351;
+  }
+  
+  .pagination li a:hover {
+    background-color: #ddd;
+  }
+  
+  .pagination li.active a {
+    background-color: #51BCC5;
+    color: #fff;
+    border-color: #51BCC5;
+  }
+  

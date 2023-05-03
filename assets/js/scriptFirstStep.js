@@ -19,6 +19,12 @@ calculatedYear -> calculatedYear = currentYear + (selectedYear - currentAge)  ->
 */
 function controleDeIdade() {
     var inputIdade = document.getElementById("idade");
+    localStorage.setItem("idade", inputIdade.value); //define a idade do value do input no localstorage
+    
+    inputIdade.addEventListener("change", function(){ //se mudar ele atualiza o localstorage
+      localStorage.setItem("idade", inputIdade.value);
+    })
+    
     var botaoDecremento = document.getElementById("decrementoIdade");
     var botaoIncremento = document.getElementById("incrementoIdade");
   
@@ -26,14 +32,46 @@ function controleDeIdade() {
       var valorAtual = inputIdade.value;
       if (valorAtual > 0) {
         inputIdade.value = parseInt(valorAtual) - 1;
-        localStorage.setItem("idade", inputIdade.value)
+        localStorage.setItem("idade", inputIdade.value) //ao diminuir um ano ele atualiza o localstorage
       }
     });
   
     botaoIncremento.addEventListener("click", function() {
       var valorAtual = inputIdade.value;
       inputIdade.value = parseInt(valorAtual) + 1;
-      localStorage.setItem("idade", inputIdade.value)
+      localStorage.setItem("idade", inputIdade.value) //ao adicionar um ano ele atualiza o localstorage
     });    
   }
 controleDeIdade()
+
+// Selecione os elementos de radio
+const radios = document.getElementsByName('Sexo');
+
+// Adicione um event listener para cada radio
+for (const radio of radios) {
+  radio.addEventListener('change', (event) => {
+    // Obtenha o valor do radio selecionado
+    const valor = event.target.value;
+    console.log(valor)
+    // Salve o valor em localstorage
+    localStorage.setItem('gender', valor);
+    var generoLocal = localStorage.getItem("gender");
+    console.log(generoLocal)
+  });
+}
+
+
+const fileInput = document.getElementById('formFileLg');
+const consoleButton = document.getElementById('carregarJSON');
+
+consoleButton.addEventListener('click', () => {
+  const file = fileInput.files[0];
+  const reader = new FileReader();
+
+  reader.addEventListener('load', () => {
+    const data = JSON.parse(reader.result);
+    localStorage.setItem("json", JSON.stringify(data));
+  });
+
+  reader.readAsText(file);
+});
