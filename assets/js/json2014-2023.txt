@@ -1,0 +1,370 @@
+[
+  {
+    "competencia": "10/2014",
+    "remuneracao": "908,32"
+  },
+  {
+    "competencia": "11/2014",
+    "remuneracao": "1.362,48"
+  },
+  {
+    "competencia": "12/2014",
+    "remuneracao": "1.643,22"
+  },
+  {
+    "competencia": "01/2015",
+    "remuneracao": "1.362,48"
+  },
+  {
+    "competencia": "02/2015",
+    "remuneracao": "1.532,24"
+  },
+  {
+    "competencia": "03/2015",
+    "remuneracao": "1.773,77"
+  },
+  {
+    "competencia": "04/2015",
+    "remuneracao": "1.584,32"
+  },
+  {
+    "competencia": "05/2015",
+    "remuneracao": "1.447,36"
+  },
+  {
+    "competencia": "06/2015",
+    "remuneracao": "1.824,11"
+  },
+  {
+    "competencia": "07/2015",
+    "remuneracao": "1.447,36"
+  },
+  {
+    "competencia": "08/2015",
+    "remuneracao": "1.447,36"
+  },
+  {
+    "competencia": "09/2015",
+    "remuneracao": "1.527,92"
+  },
+  {
+    "competencia": "10/2015",
+    "remuneracao": "1.447,36"
+  },
+  {
+    "competencia": "11/2015",
+    "remuneracao": "1.447,36"
+  },
+  {
+    "competencia": "12/2015",
+    "remuneracao": "1.455,99"
+  },
+  {
+    "competencia": "01/2016",
+    "remuneracao": "1.447,36"
+  },
+  {
+    "competencia": "02/2016",
+    "remuneracao": "1.447,36"
+  },
+  {
+    "competencia": "03/2016",
+    "remuneracao": "1.465,86"
+  },
+  {
+    "competencia": "04/2016",
+    "remuneracao": "1.533,52"
+  },
+  {
+    "competencia": "05/2016",
+    "remuneracao": "1.534,20"
+  },
+  {
+    "competencia": "06/2016",
+    "remuneracao": "1.566,51"
+  },
+  {
+    "competencia": "07/2016",
+    "remuneracao": "2.145,35"
+  },
+  {
+    "competencia": "08/2016",
+    "remuneracao": "1.577,85"
+  },
+  {
+    "competencia": "09/2016",
+    "remuneracao": "1.634,70"
+  },
+  {
+    "competencia": "10/2016",
+    "remuneracao": "1.534,20"
+  },
+  {
+    "competencia": "11/2016",
+    "remuneracao": "1.610,62"
+  },
+  {
+    "competencia": "12/2016",
+    "remuneracao": "1.610,62"
+  },
+  {
+    "competencia": "01/2017",
+    "remuneracao": "1.610,62"
+  },
+  {
+    "competencia": "02/2017",
+    "remuneracao": "1.610,62"
+  },
+  {
+    "competencia": "03/2017",
+    "remuneracao": "1.392,65"
+  },
+  {
+    "competencia": "07/2018",
+    "remuneracao": "954,00"
+  },
+  {
+    "competencia": "08/2018",
+    "remuneracao": "954,00"
+  },
+  {
+    "competencia": "09/2018",
+    "remuneracao": "954,00"
+  },
+  {
+    "competencia": "10/2018",
+    "remuneracao": "954,00"
+  },
+  {
+    "competencia": "11/2018",
+    "remuneracao": "954,00"
+  },
+  {
+    "competencia": "12/2018",
+    "remuneracao": "998,00"
+  },
+  {
+    "competencia": "01/2019",
+    "remuneracao": "998,00"
+  },
+  {
+    "competencia": "02/2019",
+    "remuneracao": "998,00"
+  },
+  {
+    "competencia": "03/2019",
+    "remuneracao": "998,00"
+  },
+  {
+    "competencia": "04/2019",
+    "remuneracao": "998,00"
+  },
+  {
+    "competencia": "05/2019",
+    "remuneracao": "998,00"
+  },
+  {
+    "competencia": "06/2019",
+    "remuneracao": "998,00"
+  },
+  {
+    "competencia": "07/2019",
+    "remuneracao": "998,00"
+  },
+  {
+    "competencia": "08/2019",
+    "remuneracao": "998,00"
+  },
+  {
+    "competencia": "09/2019",
+    "remuneracao": "1.650,72"
+  },
+  {
+    "competencia": "10/2019",
+    "remuneracao": "2.250,98"
+  },
+  {
+    "competencia": "11/2019",
+    "remuneracao": "2.250,98"
+  },
+  {
+    "competencia": "12/2019",
+    "remuneracao": "2.250,98"
+  },
+  {
+    "competencia": "01/2020",
+    "remuneracao": "2.250,98"
+  },
+  {
+    "competencia": "02/2020",
+    "remuneracao": "2.250,98"
+  },
+  {
+    "competencia": "03/2020",
+    "remuneracao": "2.546,36"
+  },
+  {
+    "competencia": "04/2020",
+    "remuneracao": "2.433,94"
+  },
+  {
+    "competencia": "05/2020",
+    "remuneracao": "2.451,13"
+  },
+  {
+    "competencia": "06/2020",
+    "remuneracao": "2.834,50"
+  },
+  {
+    "competencia": "07/2020",
+    "remuneracao": "2.605,10"
+  },
+  {
+    "competencia": "08/2020",
+    "remuneracao": "2.597,48"
+  },
+  {
+    "competencia": "09/2020",
+    "remuneracao": "4.553,93"
+  },
+  {
+    "competencia": "09/2020",
+    "remuneracao": "132,66"
+  },
+  {
+    "competencia": "10/2020",
+    "remuneracao": "3.695,97"
+  },
+  {
+    "competencia": "10/2020",
+    "remuneracao": "108,55"
+  },
+  {
+    "competencia": "11/2020",
+    "remuneracao": "3.884,02"
+  },
+  {
+    "competencia": "12/2020",
+    "remuneracao": "3.421,15"
+  },
+  {
+    "competencia": "01/2021",
+    "remuneracao": "4.860,59"
+  },
+  {
+    "competencia": "02/2021",
+    "remuneracao": "2.408,56"
+  },
+  {
+    "competencia": "03/2021",
+    "remuneracao": "3.349,10"
+  },
+  {
+    "competencia": "04/2021",
+    "remuneracao": "3.306,37"
+  },
+  {
+    "competencia": "05/2021",
+    "remuneracao": "3.134,39"
+  },
+  {
+    "competencia": "06/2021",
+    "remuneracao": "2.822,60"
+  },
+  {
+    "competencia": "07/2021",
+    "remuneracao": "2.983,59"
+  },
+  {
+    "competencia": "08/2021",
+    "remuneracao": "4.799,03"
+  },
+  {
+    "competencia": "09/2021",
+    "remuneracao": "10.026,22"
+  },
+  {
+    "competencia": "09/2021",
+    "remuneracao": "1.020,31"
+  },
+  {
+    "competencia": "10/2021",
+    "remuneracao": "6.654,15"
+  },
+  {
+    "competencia": "11/2021",
+    "remuneracao": "6.854,90"
+  },
+  {
+    "competencia": "12/2021",
+    "remuneracao": "6.230,13"
+  },
+    {
+    "competencia": "01/2022",
+    "remuneracao": "5.838,29"
+  },
+  {
+    "competencia": "02/2022",
+    "remuneracao": "5.831,12"
+  },
+  {
+    "competencia": "03/2022",
+    "remuneracao": "5.404,58"
+  },
+  {
+    "competencia": "04/2022",
+    "remuneracao": "5.404,58"
+  },
+  {
+    "competencia": "05/2022",
+    "remuneracao": "6.141,68"
+  },
+  {
+    "competencia": "06/2022",
+    "remuneracao": "5.404,58"
+  },
+  {
+    "competencia": "07/2022",
+    "remuneracao": "5.404,58"
+  },
+  {
+    "competencia": "08/2022",
+    "remuneracao": "5.404,58"
+  },
+  {
+    "competencia": "09/2022",
+    "remuneracao": "7.113,91"
+  },
+  {
+    "competencia": "09/2022",
+    "remuneracao": "619,75"
+  },
+  {
+    "competencia": "10/2022",
+    "remuneracao": "5.881,80"
+  },
+  {
+    "competencia": "11/2022",
+    "remuneracao": "6.013,02"
+  },
+  {
+    "competencia": "12/2022",
+    "remuneracao": "6.213,45"
+  },
+  {
+    "competencia": "01/2023",
+    "remuneracao": "6.213,45"
+  },
+  {
+    "competencia": "02/2023",
+    "remuneracao": "5.612,15"
+  },
+  {
+    "competencia": "03/2023",
+    "remuneracao": "6.213,45"
+  },
+  {
+    "competencia": "04/2023",
+    "remuneracao": "5.943,04"
+  }
+]
